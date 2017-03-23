@@ -1,0 +1,2 @@
+class randomStartStopConflictException(Exception):
+    pass
