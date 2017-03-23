@@ -135,6 +135,6 @@ class Jotham():
             self.hotnessLevel += (newHotness - self.hotnessLevel)
         else:
             raise randomStartStopConflictException
-    
+
 
 
